@@ -1,6 +1,5 @@
 # 💫 About Me:
-Computer Science student with a strong interest in full-stack development and backend systems. I enjoy building scalable web applications, working with modern frameworks, and learning how real world software is designed, deployed, and maintained.
-
+🚀 Computer Science student with a strong interest in full-stack development and backend systems. I enjoy building scalable web applications and learning how real-world software is designed and deployed.<br><br>💻 Full-stack–focused CS student with hands-on experience in React, Spring Boot, APIs, databases, and cloud deployment. I like turning ideas into production-ready systems.<br><br>🧠 Aspiring software engineer passionate about system design, modern web technologies, and writing clean, maintainable code.<br><br>📈 Always learning and building, with a focus on improving engineering skills through real projects and continuous experimentation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajad-ali-zada-732241a9/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajad.alizada2014@gmail.com) 
@@ -11,6 +10,26 @@ Computer Science student with a strong interest in full-stack development and ba
 ![](https://github-readme-stats.vercel.app/api?username=sajad42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sajad42&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sajad42&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sajad42&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sajad42&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad42&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sajad42&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sajad42&icon=0&color=0)](https://visitcount.itsvg.in)
